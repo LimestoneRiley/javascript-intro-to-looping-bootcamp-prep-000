@@ -5,6 +5,7 @@ function forLoop (array){
       window.alert (array);
     }else{
       array.push ("I am ${i} strange loops.");
+      window.alert (array);
     }
   return (array);
 }
