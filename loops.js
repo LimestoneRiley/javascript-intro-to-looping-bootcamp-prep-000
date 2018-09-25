@@ -20,7 +20,7 @@ function doWhileLoop(array){
   do {
     array.pop();
     array.length > 0 && incrementVariable();
-  } while (array.length > 0; and incrementVariable() = true;);
+  } while (array.length > 0; and incrementVariable() == true;);
 }
 
 function incrementVariable() {
